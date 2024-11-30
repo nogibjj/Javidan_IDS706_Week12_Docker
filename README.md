@@ -1,3 +1,4 @@
+[![CI](https://github.com/nogibjj/Javidan_IDS706_Week12_Docker/actions/workflows/main.yaml/badge.svg)](https://github.com/nogibjj/Javidan_IDS706_Week12_Docker/actions/workflows/main.yaml)
 
 # Flask Countdown App
 
