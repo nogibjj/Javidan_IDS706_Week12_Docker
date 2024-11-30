@@ -2,7 +2,7 @@
 
 # Flask Countdown App
 
-This is a simple Flask application that provides a countdown functionality.
+This is a simple Flask application that provides a countdown functionality and deployed in Docker container.
 
 ## Features
 
